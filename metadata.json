@@ -1,0 +1,6 @@
+{
+  "name": "NANO - Discord Bot",
+  "description": "Um bot completo para deixar sua comunidade do Discord mais organizada, segura e divertida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
